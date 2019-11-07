@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078461707182",
+    "firebase_url": "https://realtimesidekickionic.firebaseio.com",
+    "project_id": "realtimesidekickionic",
+    "storage_bucket": "realtimesidekickionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078461707182:android:68bfe3dcd9d245e035ce3f",
+        "android_client_info": {
+          "package_name": "com.realtimemed.sidekick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078461707182-sjte7k9ro3n0dt3qasramopdaqge8131.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArw_Qifp3TlEtmFKLqyvAsROb7YaxCZm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078461707182-sjte7k9ro3n0dt3qasramopdaqge8131.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
